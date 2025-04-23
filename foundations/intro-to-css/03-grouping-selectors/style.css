@@ -1,16 +1,17 @@
-.button-text{
+.left
+.right{
     font-size: 28px;
     font-family: Helvetica, Times New Roman, sans-serif;
 }
 
-.background-black{
+.left{
     background-color: black;
 }
 
-.white-text{
+.left{
     color: white;
 }
 
-.background-yellow{
+.right{
     background-color: yellow;
 }
